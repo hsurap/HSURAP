@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/garg_parush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="garg_parush" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parush garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parush garg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parush-garg-959a681ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parush garg" height="30" width="40" /></a>
 <a href="https://instagram.com/parush786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="parush786" height="30" width="40" /></a>
 </p>
 
