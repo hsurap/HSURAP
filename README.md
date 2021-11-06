@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/garg_parush" target="blank"><img src="https://img.shields.io/twitter/follow/garg_parush?logo=twitter&style=for-the-badge" alt="garg_parush" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Web Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
