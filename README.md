@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parush</h1>
-<h3 align="center">Second Year COE student at Thapar University</h3>
+<h3 align="center">Third Year COE student at Thapar University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsurap&label=Profile%20views&color=0e75b6&style=flat" alt="hsurap" /> </p>
 
