@@ -1,3 +1,4 @@
+<!-- comment -->
 <h1 align="center">Hi 👋, I'm Parush</h1>
 <h3 align="center">Third Year COE student at Thapar University</h3>
 
